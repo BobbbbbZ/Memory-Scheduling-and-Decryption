@@ -1,0 +1,6 @@
+Info (10281): Verilog HDL Declaration information at ksa.sv(6): object "HEX0" differs only in case from object "hex0" in the same scope File: C:/Users/15268/Desktop/CPEN311/lab4/lab4/template_de1soc/ksa.sv Line: 6
+Info (10281): Verilog HDL Declaration information at ksa.sv(7): object "HEX1" differs only in case from object "hex1" in the same scope File: C:/Users/15268/Desktop/CPEN311/lab4/lab4/template_de1soc/ksa.sv Line: 7
+Info (10281): Verilog HDL Declaration information at ksa.sv(8): object "HEX2" differs only in case from object "hex2" in the same scope File: C:/Users/15268/Desktop/CPEN311/lab4/lab4/template_de1soc/ksa.sv Line: 8
+Info (10281): Verilog HDL Declaration information at ksa.sv(9): object "HEX3" differs only in case from object "hex3" in the same scope File: C:/Users/15268/Desktop/CPEN311/lab4/lab4/template_de1soc/ksa.sv Line: 9
+Info (10281): Verilog HDL Declaration information at ksa.sv(10): object "HEX4" differs only in case from object "hex4" in the same scope File: C:/Users/15268/Desktop/CPEN311/lab4/lab4/template_de1soc/ksa.sv Line: 10
+Info (10281): Verilog HDL Declaration information at ksa.sv(12): object "HEX5" differs only in case from object "hex5" in the same scope File: C:/Users/15268/Desktop/CPEN311/lab4/lab4/template_de1soc/ksa.sv Line: 12

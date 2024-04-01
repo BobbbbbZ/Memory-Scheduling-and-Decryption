@@ -25,4 +25,11 @@ Initialize the memory
 Sample Output
 ![image](https://github.com/BobbbbbZ/Memory-Scheduling-and-Decryption/assets/90471740/875d3886-a9d9-4853-adea-112ae54271c3)
 
-[CPEN311 Lab4.pdf](https://github.com/BobbbbbZ/Memory-Scheduling-and-Decryption/files/14818500/CPEN311.Lab4.pdf)
+
+![image](https://github.com/BobbbbbZ/Memory-Scheduling-and-Decryption/assets/90471740/9ad719de-3388-464a-b0a4-3138eef814c7)
+
+![image](https://github.com/BobbbbbZ/Memory-Scheduling-and-Decryption/assets/90471740/ba52b7a9-1c20-4b67-ad47-4e01e2bf957e)
+
+![image](https://github.com/BobbbbbZ/Memory-Scheduling-and-Decryption/assets/90471740/60635236-c8c1-47de-8dd0-f3a5796cdf4c)
+
+
